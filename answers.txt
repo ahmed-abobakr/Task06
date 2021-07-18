@@ -1,0 +1,46 @@
+q: What Is the benefit of the type method?
+A: to konw the type of variable is int, str, bool...etc
+
+q:Can we use semi colon ; with python?
+A: yes
+
+q:Python is interpreted or compiled?
+A: interpreted
+
+q:What is the differences between low level & high level?
+A: low lever programming language like assmbley is a set of commands used to execute a limited number of commands
+high level is a language that's used english workds and should run on compiler or interpreter to be executed on hardware
+
+q:What is the differences between = , ==?
+A: = is used for signing value to variable
+== is used for comparison between variables
+
+q:What do we mean by using !=?
+A: != means not equal for comparison
+
+q:What is the operator precedence?
+A: means excute the operation and save the result in the same variable like this x += 1
+
+q:In which cases we will use all?
+A: when when have huge number of conditions and all must be true
+
+q:What is the differences between all , and?
+A: all is used for a lot numbers of conditions, and when we have 2 or 3 conditions only
+
+q:What is the differences between any , or?
+A:any is used for a lot numbers of conditions, or  when we have 2 or 3 conditions only
+
+q:If we need all the conditions to be true we will use?
+A: all
+
+q:What is the differences between if , elif
+A: if is used for first condition elif is used for others conditions
+
+q:What is the differences between elif else ?
+A: elif is used for second or other conditions and else for the default one
+
+q:Can we use more than one elif ?
+A: yes
+
+q: Can we use more than one else?
+A: no
